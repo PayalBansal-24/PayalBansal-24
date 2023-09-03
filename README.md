@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PayalBansal-24
-- 👀 I’m interested in making web designing
+- 👀 I’m interested in  web developing
 - 🌱 I’m currently learning react.js
 - 📫 To reach me- mail me on bansalpayal115@gmail.com
 
